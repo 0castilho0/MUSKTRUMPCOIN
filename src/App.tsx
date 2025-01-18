@@ -37,23 +37,23 @@ function App() {
 
   const carouselImages = [
     {
-      url: 'src/2carrousel.jpg',
+      url: 'img/src/2carrousel.jpg',
       caption: 'Dominating the crypto market',
     },
     {
-      url: 'src/5carrousel.jpg',
+      url: 'img/src/5carrousel.jpg',
       caption: 'Eagke leading global success',
     },
         {
-      url: 'src/4carrousel.jpeg',
+      url: 'img/src/4carrousel.jpeg',
       caption: 'Power and Technology united by MTC',
     },
     {
-      url: 'src/3carrousel.jpg',
+      url: 'img/src/3carrousel.jpg',
       caption: 'Interplanetary expansion of MTC',
     },
     {
-      url: 'src/1carrousel.jpg',
+      url: 'img/src/1carrousel.jpg',
       caption: 'The currency that connects worlds',
     },
   ];
@@ -65,7 +65,7 @@ function App() {
         <div className="container mx-auto px-4 py-4 flex flex-col sm:flex-row justify-between items-center">
           <div className="flex items-center gap-4 mb-4 sm:mb-0">
             <img
-              src="src/MuskTrumpCoin - MTC  .png"
+              src="img/src/MuskTrumpCoin - MTC  .png"
               alt="MuskTrumpCoin Logo"
               className="w-12 h-12"
             />
@@ -91,7 +91,7 @@ function App() {
                   American Innovation
                 </span>
                 <img 
-                  src='src/MuskTrumpCoin - MTC  .png'
+                  src='img/src/MuskTrumpCoin - MTC  .png'
                   alt='MuskTrumpCoin Logo'
                   className='w-24 sm:w-32 md:w40 lg:w-48 h-auto'
                 />
@@ -452,7 +452,7 @@ function App() {
           <div className="flex flex-col md:flex-row justify-between items-center">
             <div className="flex items-center gap-4 mb-6 md:mb-0">
               <img
-                src="src/MuskTrumpCoin - MTC  .png"
+                src="img/src/MuskTrumpCoin - MTC  .png"
                 alt="MuskTrumpCoin Logo"
                 className="w-8 h-8"
               />
