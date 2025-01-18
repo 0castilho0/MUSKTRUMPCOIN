@@ -45,6 +45,14 @@ function App() {
       caption: 'American Eagle - Symbol of Freedom',
     },
     {
+      url: 'https://images.unsplash.com/photo-1541726260-e6b6a6a08b27?auto=format&fit=crop&w=1000&h=1000&q=80',
+      caption: 'American Eagle - Symbol of Freedom',
+    },
+    {
+      url: 'https://images.unsplash.com/photo-1541726260-e6b6a6a08b27?auto=format&fit=crop&w=1000&h=1000&q=80',
+      caption: 'American Eagle - Symbol of Freedom',
+    },
+    {
       url: 'https://images.unsplash.com/photo-1603738275011-952b2df59577?auto=format&fit=crop&w=1000&h=1000&q=80',
       caption: 'Stars and Stripes Forever',
     },
