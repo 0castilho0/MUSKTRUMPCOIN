@@ -41,23 +41,23 @@ function App() {
 
   const carouselImages = [
     {
-      url: 'Leonardo_Phoenix_10_Uma_guia_com_expresso_confiante_segurando_3.jpg',
+      url: 'src/2carrousel',
       caption: 'Dominating the crypto market',
     },
     {
-      url: 'Leonardo_Phoenix_10_Cenrio_de_ascenso_global_Uma_imagem_mostra_0.jpg',
+      url: 'src/5carrousel',
       caption: 'Eagke leading global success',
     },
         {
-      url: 'Leonardo_Phoenix_10_Combinao_de_poder_e_inovaoElon_Musk_e_Dona_3.jpg',
+      url: 'src/4carrousel',
       caption: 'Power and Technology united by MTC',
     },
     {
-      url: 'Leonardo_Phoenix_10_Explorao_de_Marte_com_a_MTCElon_Musk_camin_1.jpg',
+      url: 'src/3carrousel',
       caption: 'Interplanetary expansion of MTC',
     },
     {
-      url: 'Flux_Dev_Donald_Trump_promovendo_a_MuskTrumpCoinDonald_Trump_e_2.jpeg',
+      url: 'src/1carrousel',
       caption: 'The currency that connects worlds',
     },
   ];
