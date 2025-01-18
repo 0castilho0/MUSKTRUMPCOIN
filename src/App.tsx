@@ -45,7 +45,7 @@ function App() {
       caption: 'Eagke leading global success',
     },
         {
-      url: 'img/src/4carrousel.jpeg',
+      url: 'img/src/4carrousel.jpg',
       caption: 'Power and Technology united by MTC',
     },
     {
