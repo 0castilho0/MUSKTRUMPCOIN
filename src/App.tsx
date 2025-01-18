@@ -37,23 +37,23 @@ function App() {
 
   const carouselImages = [
     {
-      url: 'src/2carrousel',
+      url: 'src/2carrousel.jpg',
       caption: 'Dominating the crypto market',
     },
     {
-      url: 'src/5carrousel',
+      url: 'src/5carrousel.jpg',
       caption: 'Eagke leading global success',
     },
         {
-      url: 'src/4carrousel',
+      url: 'src/4carrousel.jpg',
       caption: 'Power and Technology united by MTC',
     },
     {
-      url: 'src/3carrousel',
+      url: 'src/3carrousel.jpg',
       caption: 'Interplanetary expansion of MTC',
     },
     {
-      url: 'src/1carrousel',
+      url: 'src/1carrousel.jpg',
       caption: 'The currency that connects worlds',
     },
   ];
