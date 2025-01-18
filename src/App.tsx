@@ -65,7 +65,7 @@ function App() {
         <div className="container mx-auto px-4 py-4 flex flex-col sm:flex-row justify-between items-center">
           <div className="flex items-center gap-4 mb-4 sm:mb-0">
             <img
-              src="img/src/MuskTrumpCoin - MTC  .png"
+              src="src/img/MuskTrumpCoin - MTC  .png"
               alt="MuskTrumpCoin Logo"
               className="w-12 h-12"
             />
@@ -91,7 +91,7 @@ function App() {
                   American Innovation
                 </span>
                 <img 
-                  src='img/src/MuskTrumpCoin - MTC  .png'
+                  src='src/img/MuskTrumpCoin - MTC  .png'
                   alt='MuskTrumpCoin Logo'
                   className='w-24 sm:w-32 md:w40 lg:w-48 h-auto'
                 />
@@ -452,7 +452,7 @@ function App() {
           <div className="flex flex-col md:flex-row justify-between items-center">
             <div className="flex items-center gap-4 mb-6 md:mb-0">
               <img
-                src="img/src/MuskTrumpCoin - MTC  .png"
+                src="src/img/MuskTrumpCoin - MTC  .png"
                 alt="MuskTrumpCoin Logo"
                 className="w-8 h-8"
               />
