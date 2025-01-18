@@ -1,15 +1,11 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import {
   Wallet,
   Shield,
   Globe,
   Rocket,
-  Binary,
   Blocks,
-  Zap,
-  Lock,
   TrendingUp,
-  Users,
   ExternalLink,
   Star,
   Cpu,
