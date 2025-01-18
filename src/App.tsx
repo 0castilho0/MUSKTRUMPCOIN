@@ -456,7 +456,7 @@ function App() {
           <div className="flex flex-col md:flex-row justify-between items-center">
             <div className="flex items-center gap-4 mb-6 md:mb-0">
               <img
-                src="MuskTrumpCoin - MTC  .png"
+                src="src/MuskTrumpCoin - MTC  .png"
                 alt="MuskTrumpCoin Logo"
                 className="w-8 h-8"
               />
