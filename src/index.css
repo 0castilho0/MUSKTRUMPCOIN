@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@keyframes float {
+  0% {
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(-20px);
+  }
+  100% {
+    transform: translateY(0px);
+  }
+}
+
+.animate-float {
+  animation: float 6s ease-in-out infinite;
+}
+
+.swiper-button-next,
+.swiper-button-prev {
+  color: #FCD34D !important;
+}
+
+.swiper-pagination-bullet {
+  background: #FCD34D !important;
+}
+
+.swiper-pagination-bullet-active {
+  background: #FCD34D !important;
+}
